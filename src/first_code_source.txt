@@ -1,1 +1,8 @@
 HELLO ATLANTA
+<<<<<<< HEAD
+=======
+HELLO ALPHARETTA
+HELLO DEERFIELD
+HELLO 19103
+TEST ONCE AGAIN
+>>>>>>> branch 'master' of https://github.com/souravdm/git_repo_example.git
